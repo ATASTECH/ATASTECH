@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning **Unreal Engine**
-- 💬 Ask me about **React, Flutter, NodeJS, Solidity, Web3, Blockchain, etc.**
+- 💬 Ask me about **React, Flutter, NodeJS, Nextjs, Web3, Blockchain, etc.**
 - 📫 How to reach we contact@atastech.com.tr
-- 👨‍💻 All of my projects are available at **https://atastech.com.tr**
+- 👨‍💻 All of my projects are available at **https://atastech.com**
 - ⚡ Also: **!**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -43,3 +43,18 @@
 <div align="center">
 
 </div>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atastech/atastech/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atastech/atastech/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/atastech/atastech/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/atastech/atastech/output/snake.svg" alt="Snake animation" />
+
+###
