@@ -1,30 +1,61 @@
-<h1 align="center">Hi 👋, I WE ATAS TECH</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋,+I'm+Atas;🚀+Passionate+about+building+the+future+with+code;🛠️+Crafting+scalable+and+modern+web+solutions;🌍+Bridging+technology+and+creativity&center=true&size=30&width=1000&color=00FF00">
+  </a>
+</h1>
 <h3 align="center">Multi-development</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaparvar&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaparvar" /> </p>
+<br>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+  <li>🧑‍💼 Founder & Lead Engineer at <a href="https://atastech.com" target="_blank">AtasTech</a>, where engineering meets precision and vision.</li>
+  <li>🧭 Currently leading the development of <strong>Atas UI</strong> — a next-gen design system — and <strong>Morpis AI</strong>, our frontier in applied artificial intelligence.</li>
+  <li>🧠 With over a decade of experience, I specialize in architecting full-stack systems that blend performance, scalability, and user-centric design.</li>
+  <li>⚙️ Expert in modern web stacks: <strong>Next.js, Motion, Tailwind CSS, TypeScript, Django REST, PostgreSQL</strong> — with strong focus on clean code and maintainability.</li>
+  <li>🌐 Building multilingual, domain-driven applications deployed across distributed infrastructures with seamless localization and API-level control.</li>
+  <li>📦 Advocating modular design and reusability — from custom UI libraries to internal toolchains for enterprise-grade products.</li>
+  <li>💬 I’m most passionate about solving complex problems with elegant code — particularly in areas of <strong>frontend architecture, platform engineering, and AI-enhanced interfaces</strong>.</li>
+  <li>🧩 Fun Fact: I began my career by developing C#, and today, I engineer frameworks used across international teams and platforms.</li>
+</ul>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ATASTECH&label=Profile%20views&color=0e75b6&style=flat" alt="ATASTECH" /> </p>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning **Unreal Engine**
-- 💬 Ask me about **React, Flutter, NodeJS, Nextjs, Web3, Blockchain, etc.**
-- 📫 How to reach we contact@atastech.com.tr
-- 👨‍💻 All of my projects are available at **https://atastech.com**
-- ⚡ Also: **!**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">🗣️ Connect Whit Me 🙊</h2>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yahya-parvar-22b6591ba" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/yaya6281" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/tahaatas_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tahaatas@atastech.com.tr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/tahaatasx" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" height="30" alt="hackerrank logo" />
+  </a>
+</p>
 
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/atastech" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto: contact@atastech.com.tr"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yahya-parvar-22b6591ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yahya-parvar-22b6591ba" height="30" width="40" /></a><a href="https://discord.gg/yaya6281" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="yaya6281" height="30" width="40" /></a><a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14271110/yaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14271110/yaya" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/graphql-icon.svg" alt="Graphql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
@@ -36,25 +67,57 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+  <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+</div>
 </p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
+<br>
 
-</div>
-<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atastech/atastech/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atastech/atastech/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/atastech/atastech/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ATASTECH&theme=react&border=61dafb&hide_border=true" alt="ATASTECH Streak" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ATASTECH&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATASTECH&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/atastech/atastech/output/snake.svg" alt="Snake animation" />
-
-###
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATASTECH&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
