@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">Multi-development</h3>
 <br>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://github.com/ATASTECH/ATASTECH/blob/main/.github/workflows/asg16126.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li>🧑‍💼 Founder & Lead Engineer at <a href="https://atastech.com" target="_blank">AtasTech</a>, where engineering meets precision and vision.</li>
